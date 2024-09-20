@@ -1,0 +1,21 @@
+body{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-image: url('c.jpeg'); /*use to put some images to -background */
+    background-repeat: no-repeat; /*to not repeat-the image-in the-background */
+    background-size: 100% ; /*to make the-background pic-balance */
+}
+h1{
+    margin: 0;
+}
+form{
+    padding: 30px;
+    
+}
+table{
+    margin: 30px;
+    margin-top: 30px;
+}
+
